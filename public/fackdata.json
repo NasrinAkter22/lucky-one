@@ -1,0 +1,72 @@
+[
+    {
+        "title":"Where the Crawdads Sing",
+        
+        "price":400,
+        "id":1,
+        "image":"https://img.freepik.com/free-psd/realistic-cover-mockup-two-books-plain-background_125540-1811.jpg?size=626&ext=jpg&ga=GA1.2.652636504.1648285492"
+
+
+    },
+    {
+        "title":"The Butcher and The Wren",
+        "price":419,
+        "id":2,
+        "image":"https://img.freepik.com/free-psd/minimal-cover-book-mockup_125540-553.jpg?size=626&ext=jpg&ga=GA1.2.652636504.1648285492"
+        
+    },
+    {
+        "title":"Run, Rose, Run: A Novel",
+        
+        "price":500,
+        "id":3,
+        "image":"https://img.freepik.com/free-psd/front-book-cover-light-surface-mockup_125540-1819.jpg?size=626&ext=jpg&ga=GA1.2.652636504.1648285492"
+        
+    },
+    {
+        "title":"It Ends with Us: A Nove",
+        "price":219,
+        "id":4,
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-225.jpg?size=626&ext=jpg&ga=GA1.2.652636504.1648285492"
+        
+    },
+    {
+        "title":"How to Catch a Leprechaun",
+        "price":219,
+        "id":5,
+        "image":"https://img.freepik.com/free-psd/hardcover-book-mockup_77323-747.jpg?size=626&ext=jpg&ga=GA1.2.652636504.1648285492"
+        
+    },
+    {
+        "title":"Reminders of Him: A Novel",
+        
+        "price":550,
+        "id":6,
+        "image":"https://img.freepik.com/free-psd/book-cover-mockup_125540-453.jpg?size=626&ext=jpg&ga=GA1.2.652636504.1648285492"
+        
+    },
+    {
+        "title":"The Body Keeps the Score", 
+        "price":250,
+        "id":7,
+        "image":"https://img.freepik.com/free-psd/book-cover-mockup_125540-453.jpg?size=626&ext=jpg&ga=GA1.2.652636504.1648285492"
+
+    },
+    {
+        "title":"The Body Keeps the Score",
+        "price":200,
+        "id":8,
+        "image":"https://img.freepik.com/free-psd/book-cover-mockup-psd-editable-design_53876-145076.jpg?size=626&ext=jpg&ga=GA1.2.652636504.1648285492"
+        
+    },
+    {
+        "title":"Recipes and Techniques",
+        "price":500,
+        "id":9,
+        "image":"https://img.freepik.com/free-psd/realistic-book-cover-presentation_1310-24.jpg?size=338&ext=jpg&ga=GA1.2.652636504.1648285492"
+        
+    }
+    
+    
+    
+]
