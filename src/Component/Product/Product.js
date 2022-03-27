@@ -9,7 +9,7 @@ const Product = (props) => {
               <div><h4>{title}</h4>
               <h5>{price}</h5>
               </div>
-              <button className='btn-primary my-3 '>Add To cart</button>
+              <button onClick={()=>props.cartProduct(props.product)} className='btn-primary my-3 '>Add To cart</button>
               </div>  
         </div>
     );
